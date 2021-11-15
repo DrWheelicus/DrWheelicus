@@ -9,7 +9,7 @@
     😁Pronouns: He/Him/His
 </h3>
 <p align=center>
-    I am a freelance web, mobile, and game developer with a passion for learning and problem solving.
+    I am a freelance web, mobile, and software developer with a passion for learning and problem solving.
     I am currently a student at Ontario Tech University studying Computer Science.
 </p>
 
