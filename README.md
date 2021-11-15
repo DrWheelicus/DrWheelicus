@@ -21,7 +21,7 @@
     <a href="https://www.linkedin.com/in/hayden-macintyre-70278a1a1/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="mailto:haydenpmac@gmail.com?bcc=hayden.macintyre@ontariotechu.net&?body=Hi%20Hayden%2C%0D%0A%0D%0A" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:42521312+DrWheelicus@users.noreply.github.com?bcc=hayden.macintyre@ontariotechu.net&?body=Hi%20Hayden%2C%0D%0A%0D%0A" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
 </p>
